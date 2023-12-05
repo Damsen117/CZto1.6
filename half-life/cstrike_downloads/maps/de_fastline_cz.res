@@ -1,0 +1,17 @@
+czritual_standard.wad
+czde_fastline.wad
+gfx/detail/dt_leather1.tga
+gfx/detail/dt_metal2.tga
+gfx/detail/dt_smooth1.tga
+gfx/detail/dt_ssteel1.tga
+gfx/detail/dt_stone1.tga
+models/props/lamp_portable_standup.mdl
+models/props/plant_potted.mdl
+models/props/rails_subway.mdl
+models/props/scaffold.mdl
+models/props/scaffold_short.mdl
+models/props/trash.mdl
+models/props/tree_japan_maple_orange.mdl
+models/props/wires_still.mdl
+overviews/de_fastline_cz.bmp
+overviews/de_fastline_cz.txt

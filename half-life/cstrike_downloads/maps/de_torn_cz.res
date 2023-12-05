@@ -1,0 +1,14 @@
+czritual_standard.wad
+gfx/detail/dt_carpet1.tga
+gfx/detail/dt_fabric1.tga
+gfx/detail/dt_fabric2.tga
+gfx/detail/dt_metal1.tga
+gfx/detail/dt_snow2.tga
+gfx/detail/dt_ssteel1.tga
+gfx/detail/dt_stone1.tga
+gfx/detail/dt_stone2.tga
+gfx/detail/dt_wood.tga
+gfx/detail/dt_wood1.tga
+gfx/detail/dt_wood2.tga
+overviews/de_torn_cz.bmp
+overviews/de_torn_cz.txt
