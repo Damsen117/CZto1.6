@@ -1,0 +1,1 @@
+cstrike_downloads folder goes to server as well as fastdl for users to download. Same with CZ assets
